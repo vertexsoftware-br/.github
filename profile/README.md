@@ -22,7 +22,7 @@ Fugimos do modelo de agência tradicional para entregar tecnologia de elite com 
 ### 🌎 Conecte-se conosco
 - [Site Oficial](https://www.vertexsoftware.com.br)
 - [LinkedIn](https://www.linkedin.com/company/vertex-software-br)
-- [WhatsApp](https://api.whatsapp.com/send?phone=5512996243205&text=Ol%C3%A1!%20Visitei%20o%20GitHub%20da%20Vertex%20Software%20e%20gostaria%20de%20conversar%20sobre%20um%20projeto.)
+- [WhatsApp](https://api.whatsapp.com/send?phone=5512997058973&text=Ol%C3%A1!%20Visitei%20o%20GitHub%20da%20Vertex%20Software%20e%20gostaria%20de%20conversar%20sobre%20um%20projeto.)
 
 ---
 *"Elevando o patamar tecnológico do seu negócio."*
